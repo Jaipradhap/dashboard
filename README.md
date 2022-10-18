@@ -1,13 +1,13 @@
 # Getting Started
 
-Protected Dashboard and its API Demo Task
-Please check the DEMO Video Link: https://youtu.be/H6PjdnGjwwk
+Protected Dashboard and its API Demo Task.
+Please check the DEMO Video in the above Demo Folder.
 
-## To develop protected Single-Page Application that
+## To develop protected Single-Page Application
 
--Authorizes the user by login and password using API
--Displays exam result received from authenticated API
--Allows to log out
+Authorizes the user by login and password using API.
+Displays exam result received from authenticated API.
+Allows to log out.
 
 
 ## Project Structure and Execution Steps
